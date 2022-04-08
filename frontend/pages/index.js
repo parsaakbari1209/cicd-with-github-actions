@@ -23,7 +23,7 @@ const Home = () => {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Container>
-        <p>CI/CD with GitHub Actions Demo! Pending</p>
+        <p>CI/CD with GitHub Actions Demo! Successful</p>
       </Container>
     </>
   )
